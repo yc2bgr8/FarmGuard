@@ -1,0 +1,9 @@
+{
+  "name": "farmguard-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FarmGuard investigation and evidence desktop workspace",
+  "main": "dist/main.cjs",
+  "author": "helson",
+  "license": "MIT"
+}
